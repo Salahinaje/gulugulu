@@ -2,3 +2,4 @@ folium
 streamlit-folium
 xarray
 matplotlib
+netcdf4
